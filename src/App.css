@@ -1,0 +1,13 @@
+* {
+    font-family: 'Arial';
+}
+
+.globo {
+    font-size: 200px;
+}
+
+.icono {
+    font-size: 100px;
+    cursor: pointer;
+    user-select: none;
+}
